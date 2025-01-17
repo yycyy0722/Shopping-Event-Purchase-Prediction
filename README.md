@@ -1,1 +1,8 @@
 # Shopping-Event-Purchase-Prediction
+
+Group Members: Jooyeon Lee, Yiyou Chen, Xingzhu Chen, Ruoxian Zhang
+
+Project Summary: The project focuses on predicting customer purchase behavior during shopping events such as Black Friday, Christmas, and normal days. By leveraging machine learning techniques, the goal is to classify purchases into these categories and uncover key factors influencing shopping behavior. The findings will help businesses optimize marketing strategies, resource allocation, and customer engagement during these events.
+
+My Contribution: I contributed to data preprocessing, feature engineering, feature selection, and predictive modeling. During the preprocessing stage, I cleaned the dataset by addressing missing values, encoding categorical variables, and standardizing numerical data. I developed new features, such as "Daytime" and "Holiday Season," to capture temporal trends in shopping behavior. I also applied sequential feature selection and decision tree-based feature importance analysis to identify and prioritize the most impactful predictors, such as discount amounts and total spending.
+For predictive modeling, I implemented and evaluated machine learning models, including Decision Trees, Random Forests, and ensemble methods like Voting Classifiers and Stacking Classifiers. I performed hyperparameter tuning and cross-validation to enhance model performance and ensure robust results. My use of ensemble learning combined the strengths of multiple models to improve predictive accuracy and reliability. The analysis highlighted key drivers of purchase behavior, such as discounts, age, and spending patterns, providing actionable insights for optimizing marketing and operational strategies.
